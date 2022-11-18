@@ -121,8 +121,6 @@ npm run test
 
 # :closed_book: Grupo
 Patrick Morais <br>
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-morais/)](https://www.linkedin.com/in/patrick-morais/)<br>
-[![Gmail Badge](https://img.shields.io/badge/-ppternunes@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppternunes@gmail.com)](mailto:ppternunes@gmail.com)<br> -->
 [![GitHub Badge](https://img.shields.io/badge/-Patrick%20Morais-6633cc?style=flat-square&logo=github&logoColor=white)](https://www.github.com/patrickmoraisn/)
 
 ---
@@ -133,7 +131,7 @@ Leandro Lopes <br>
 ---
 
 Miguel Lima <br>
-[![GitHub Badge](https://img.shields.io/badge/-Leandro%20Lopes-6633cc?style=flat-square&logo=github&logoColor=white)](https://github.com/Miguel-Lima)
+[![GitHub Badge](https://img.shields.io/badge/-Miguel%20Lima-6633cc?style=flat-square&logo=github&logoColor=white)](https://github.com/Miguel-Lima)
 
 ---
 
