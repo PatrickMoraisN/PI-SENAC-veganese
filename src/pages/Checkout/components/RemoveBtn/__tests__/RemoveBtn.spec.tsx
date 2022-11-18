@@ -18,7 +18,7 @@ describe('RemoveBtn', () => {
     render(<AppComponent />)
 
     await waitFor(() => {
-      expect(screen.getByText(/expresso tradicional/gi)).toBeInTheDocument()
+      expect(screen.getByText(/expresso grains/gi)).toBeInTheDocument()
     })
 
     const arrOfAdds = screen.getAllByTestId('plus')
@@ -32,10 +32,10 @@ describe('RemoveBtn', () => {
       screen.findByText(/complete seu pedido/gi)
     })
 
-    expect(screen.getByText(/expresso americano/gi)).toBeInTheDocument()
+    expect(screen.getByText(/expresso grains/gi)).toBeInTheDocument()
 
     await userEvent.click(screen.getAllByText(/remover/gi)[0])
 
-    expect(() => screen.getByText(/expresso americano/gi)).toThrow()
+    expect(() => screen.getByText(/tacos/gi)).toThrow()
   })
 })
