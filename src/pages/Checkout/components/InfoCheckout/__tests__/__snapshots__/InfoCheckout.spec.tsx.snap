@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InfoCheckout should render correcly 1`] = `
+<div>
+  <div
+    class="sc-gswNZR lbiwJV"
+  >
+    <div
+      class="sc-dkrFOg hQptSf"
+    >
+      <p>
+        Total de itens
+      </p>
+      <p>
+        R$ 
+        29.94
+      </p>
+    </div>
+    <div
+      class="sc-dkrFOg hQptSf"
+    >
+      <button
+        class="sc-bcXHqe kyvJqT"
+      >
+        Calcular Frete
+      </button>
+    </div>
+    <div
+      class="sc-dkrFOg hQptSf"
+    />
+  </div>
+</div>
+`;
