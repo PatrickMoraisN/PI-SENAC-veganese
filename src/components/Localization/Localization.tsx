@@ -1,3 +1,4 @@
+// @ts-ignore
 import { calcCrow } from '@/api/shipping'
 import { sede } from '@/enums/sede'
 import React, { useState } from 'react'
@@ -25,7 +26,7 @@ export function Localization({
   setShippingCalculated,
   error,
 }: LocalizationProps) {
-  const [coords, setCoords] = useState<CoordsProps | null>(null)
+  const [coords, setCoords] = useState<CoordsProps | any>(null)
   const [localizationError, setLocalizationError] =
     useState<LocalizationErrorProps>(null)
 
