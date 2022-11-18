@@ -2,7 +2,7 @@ import { Header } from '@/components/Header'
 import { UserInfoContext } from '@/contexts/UserInfoContext'
 import { GithubLogo } from 'phosphor-react'
 import React, { useContext, useEffect } from 'react'
-import { NavLink as a, useNavigate } from 'react-router-dom'
+import { useNavigate } from 'react-router-dom'
 import * as S from './Confirmation.styles'
 
 type PaymentMethodProps = 'credito' | 'debito' | 'dinheiro'
@@ -17,8 +17,6 @@ export function Confirmation() {
     if (paymentMethod === 'debito') return <span>Cartão de Débito</span>
     if (paymentMethod === 'dinheiro') return <span>Dinheiro</span>
   }
-
-  console.log('aaa' + Object.values(userInfo).length)
 
   useEffect(() => {
     if (!Object.values(userInfo).length) {
