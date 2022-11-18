@@ -1,4 +1,4 @@
-![banner](src/assets/CoffeeShopBanner.png)
+![banner](src/assets/bannerveganese.png)
 <br />
 
 # :pushpin: Índice
@@ -35,10 +35,8 @@ Home
 Checkout
 ![Imagem do projeto](src/assets/cartveganese.png)
 
----
-
-Vídeo do fluxo completo
-https://user-images.githubusercontent.com/78609758/202761013-43d8799d-6ab6-4ce6-90f2-142e212160e2.mp4
+Gif do fluxo
+![gif](src/assets/senacpi.gif)
 
 
 
