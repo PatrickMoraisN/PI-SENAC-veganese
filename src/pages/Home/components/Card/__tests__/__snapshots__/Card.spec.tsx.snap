@@ -1,0 +1,1389 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card should render correctly 1`] = `
+<div>
+  <div
+    class="sc-bcXHqe hCILkT"
+  >
+    <img
+      src="src/assets/foods/colorful.jpg"
+    />
+    <div
+      class="sc-gswNZR dInrsn"
+    >
+      <div
+        class="sc-dkrFOg bjtBOW"
+      >
+        SALADA
+      </div>
+    </div>
+    <p
+      class="sc-hLBbgP bNQmgg"
+    >
+      Salada Colorful
+    </p>
+    <p
+      class="sc-eDvSVe goauox"
+    >
+      Salada chefe da casa, bem colorida com ingredientes frescos!
+    </p>
+    <p
+      class="sc-jSUZER kiLyLk"
+    >
+      R$ 
+      20,00
+      <div
+        class="sc-iBYQkv PRJhG"
+      >
+        <button
+          data-testid="remove"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,136H40a8,8,0,0,1,0-16H216a8,8,0,0,1,0,16Z"
+            />
+          </svg>
+        </button>
+        0
+        <button
+          data-testid="plus"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,120H136V40a8,8,0,0,0-16,0v80H40a8,8,0,0,0,0,16h80v80a8,8,0,0,0,16,0V136h80a8,8,0,0,0,0-16Z"
+            />
+          </svg>
+        </button>
+      </div>
+      <button
+        class="sc-gKPRtg hufJvz"
+      >
+        <svg
+          fill="#FFF"
+          height="1em"
+          viewBox="0 0 256 256"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            fill="none"
+            height="256"
+            width="256"
+          />
+          <path
+            d="M223.9,65.4l-12.2,66.9A24,24,0,0,1,188.1,152H72.1l4.4,24H184a24,24,0,1,1-24,24,23.6,23.6,0,0,1,1.4-8H102.6a23.6,23.6,0,0,1,1.4,8,24,24,0,1,1-42.2-15.6L34.1,32H16a8,8,0,0,1,0-16H34.1A16,16,0,0,1,49.8,29.1L54.7,56H216a7.9,7.9,0,0,1,6.1,2.9A7.7,7.7,0,0,1,223.9,65.4Z"
+          />
+        </svg>
+      </button>
+    </p>
+  </div>
+  <div
+    class="sc-bcXHqe hCILkT"
+  >
+    <img
+      src="src/assets/foods/tacos.jpg"
+    />
+    <div
+      class="sc-gswNZR dInrsn"
+    >
+      <div
+        class="sc-dkrFOg bjtBOW"
+      >
+        MEXICANO
+      </div>
+      <div
+        class="sc-dkrFOg bjtBOW"
+      >
+        PICANTE
+      </div>
+    </div>
+    <p
+      class="sc-hLBbgP bNQmgg"
+    >
+      Tacos
+    </p>
+    <p
+      class="sc-eDvSVe goauox"
+    >
+      3 deliciosos tacos com carne de jaca e especiarias da casa!
+    </p>
+    <p
+      class="sc-jSUZER kiLyLk"
+    >
+      R$ 
+      22,00
+      <div
+        class="sc-iBYQkv PRJhG"
+      >
+        <button
+          data-testid="remove"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,136H40a8,8,0,0,1,0-16H216a8,8,0,0,1,0,16Z"
+            />
+          </svg>
+        </button>
+        0
+        <button
+          data-testid="plus"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,120H136V40a8,8,0,0,0-16,0v80H40a8,8,0,0,0,0,16h80v80a8,8,0,0,0,16,0V136h80a8,8,0,0,0,0-16Z"
+            />
+          </svg>
+        </button>
+      </div>
+      <button
+        class="sc-gKPRtg hufJvz"
+      >
+        <svg
+          fill="#FFF"
+          height="1em"
+          viewBox="0 0 256 256"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            fill="none"
+            height="256"
+            width="256"
+          />
+          <path
+            d="M223.9,65.4l-12.2,66.9A24,24,0,0,1,188.1,152H72.1l4.4,24H184a24,24,0,1,1-24,24,23.6,23.6,0,0,1,1.4-8H102.6a23.6,23.6,0,0,1,1.4,8,24,24,0,1,1-42.2-15.6L34.1,32H16a8,8,0,0,1,0-16H34.1A16,16,0,0,1,49.8,29.1L54.7,56H216a7.9,7.9,0,0,1,6.1,2.9A7.7,7.7,0,0,1,223.9,65.4Z"
+          />
+        </svg>
+      </button>
+    </p>
+  </div>
+  <div
+    class="sc-bcXHqe hCILkT"
+  >
+    <img
+      src="src/assets/foods/grains.jpg"
+    />
+    <div
+      class="sc-gswNZR dInrsn"
+    >
+      <div
+        class="sc-dkrFOg bjtBOW"
+      >
+        GRÃOS
+      </div>
+    </div>
+    <p
+      class="sc-hLBbgP bNQmgg"
+    >
+      Expresso grains
+    </p>
+    <p
+      class="sc-eDvSVe goauox"
+    >
+      Refeição básica perfeita para petiscar com os amigos!
+    </p>
+    <p
+      class="sc-jSUZER kiLyLk"
+    >
+      R$ 
+      15,90
+      <div
+        class="sc-iBYQkv PRJhG"
+      >
+        <button
+          data-testid="remove"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,136H40a8,8,0,0,1,0-16H216a8,8,0,0,1,0,16Z"
+            />
+          </svg>
+        </button>
+        0
+        <button
+          data-testid="plus"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,120H136V40a8,8,0,0,0-16,0v80H40a8,8,0,0,0,0,16h80v80a8,8,0,0,0,16,0V136h80a8,8,0,0,0,0-16Z"
+            />
+          </svg>
+        </button>
+      </div>
+      <button
+        class="sc-gKPRtg hufJvz"
+      >
+        <svg
+          fill="#FFF"
+          height="1em"
+          viewBox="0 0 256 256"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            fill="none"
+            height="256"
+            width="256"
+          />
+          <path
+            d="M223.9,65.4l-12.2,66.9A24,24,0,0,1,188.1,152H72.1l4.4,24H184a24,24,0,1,1-24,24,23.6,23.6,0,0,1,1.4-8H102.6a23.6,23.6,0,0,1,1.4,8,24,24,0,1,1-42.2-15.6L34.1,32H16a8,8,0,0,1,0-16H34.1A16,16,0,0,1,49.8,29.1L54.7,56H216a7.9,7.9,0,0,1,6.1,2.9A7.7,7.7,0,0,1,223.9,65.4Z"
+          />
+        </svg>
+      </button>
+    </p>
+  </div>
+  <div
+    class="sc-bcXHqe hCILkT"
+  >
+    <img
+      src="src/assets/foods/gelado.jpg"
+    />
+    <div
+      class="sc-gswNZR dInrsn"
+    >
+      <div
+        class="sc-dkrFOg bjtBOW"
+      >
+        GELADO
+      </div>
+    </div>
+    <p
+      class="sc-hLBbgP bNQmgg"
+    >
+      Expresso Gelado
+    </p>
+    <p
+      class="sc-eDvSVe goauox"
+    >
+      Refeição de grãos gelados com uma culinária totalmente nova no Brasil
+    </p>
+    <p
+      class="sc-jSUZER kiLyLk"
+    >
+      R$ 
+      29,90
+      <div
+        class="sc-iBYQkv PRJhG"
+      >
+        <button
+          data-testid="remove"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,136H40a8,8,0,0,1,0-16H216a8,8,0,0,1,0,16Z"
+            />
+          </svg>
+        </button>
+        0
+        <button
+          data-testid="plus"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,120H136V40a8,8,0,0,0-16,0v80H40a8,8,0,0,0,0,16h80v80a8,8,0,0,0,16,0V136h80a8,8,0,0,0,0-16Z"
+            />
+          </svg>
+        </button>
+      </div>
+      <button
+        class="sc-gKPRtg hufJvz"
+      >
+        <svg
+          fill="#FFF"
+          height="1em"
+          viewBox="0 0 256 256"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            fill="none"
+            height="256"
+            width="256"
+          />
+          <path
+            d="M223.9,65.4l-12.2,66.9A24,24,0,0,1,188.1,152H72.1l4.4,24H184a24,24,0,1,1-24,24,23.6,23.6,0,0,1,1.4-8H102.6a23.6,23.6,0,0,1,1.4,8,24,24,0,1,1-42.2-15.6L34.1,32H16a8,8,0,0,1,0-16H34.1A16,16,0,0,1,49.8,29.1L54.7,56H216a7.9,7.9,0,0,1,6.1,2.9A7.7,7.7,0,0,1,223.9,65.4Z"
+          />
+        </svg>
+      </button>
+    </p>
+  </div>
+  <div
+    class="sc-bcXHqe hCILkT"
+  >
+    <img
+      src="src/assets/foods/green.jpg"
+    />
+    <div
+      class="sc-gswNZR dInrsn"
+    >
+      <div
+        class="sc-dkrFOg bjtBOW"
+      >
+        SALADA
+      </div>
+      <div
+        class="sc-dkrFOg bjtBOW"
+      >
+        VAPOR
+      </div>
+    </div>
+    <p
+      class="sc-hLBbgP bNQmgg"
+    >
+      Salada Green
+    </p>
+    <p
+      class="sc-eDvSVe goauox"
+    >
+      Meio a meio frutas e folhas com leite vaporizado
+    </p>
+    <p
+      class="sc-jSUZER kiLyLk"
+    >
+      R$ 
+      25,90
+      <div
+        class="sc-iBYQkv PRJhG"
+      >
+        <button
+          data-testid="remove"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,136H40a8,8,0,0,1,0-16H216a8,8,0,0,1,0,16Z"
+            />
+          </svg>
+        </button>
+        0
+        <button
+          data-testid="plus"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,120H136V40a8,8,0,0,0-16,0v80H40a8,8,0,0,0,0,16h80v80a8,8,0,0,0,16,0V136h80a8,8,0,0,0,0-16Z"
+            />
+          </svg>
+        </button>
+      </div>
+      <button
+        class="sc-gKPRtg hufJvz"
+      >
+        <svg
+          fill="#FFF"
+          height="1em"
+          viewBox="0 0 256 256"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            fill="none"
+            height="256"
+            width="256"
+          />
+          <path
+            d="M223.9,65.4l-12.2,66.9A24,24,0,0,1,188.1,152H72.1l4.4,24H184a24,24,0,1,1-24,24,23.6,23.6,0,0,1,1.4-8H102.6a23.6,23.6,0,0,1,1.4,8,24,24,0,1,1-42.2-15.6L34.1,32H16a8,8,0,0,1,0-16H34.1A16,16,0,0,1,49.8,29.1L54.7,56H216a7.9,7.9,0,0,1,6.1,2.9A7.7,7.7,0,0,1,223.9,65.4Z"
+          />
+        </svg>
+      </button>
+    </p>
+  </div>
+  <div
+    class="sc-bcXHqe hCILkT"
+  >
+    <img
+      src="src/assets/foods/green.jpg"
+    />
+    <div
+      class="sc-gswNZR dInrsn"
+    >
+      <div
+        class="sc-dkrFOg bjtBOW"
+      >
+        SALADA
+      </div>
+      <div
+        class="sc-dkrFOg bjtBOW"
+      >
+        VAPOR
+      </div>
+    </div>
+    <p
+      class="sc-hLBbgP bNQmgg"
+    >
+      Salada Green
+    </p>
+    <p
+      class="sc-eDvSVe goauox"
+    >
+      Meio a meio frutas e folhas com leite vaporizado
+    </p>
+    <p
+      class="sc-jSUZER kiLyLk"
+    >
+      R$ 
+      25,90
+      <div
+        class="sc-iBYQkv PRJhG"
+      >
+        <button
+          data-testid="remove"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,136H40a8,8,0,0,1,0-16H216a8,8,0,0,1,0,16Z"
+            />
+          </svg>
+        </button>
+        0
+        <button
+          data-testid="plus"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,120H136V40a8,8,0,0,0-16,0v80H40a8,8,0,0,0,0,16h80v80a8,8,0,0,0,16,0V136h80a8,8,0,0,0,0-16Z"
+            />
+          </svg>
+        </button>
+      </div>
+      <button
+        class="sc-gKPRtg hufJvz"
+      >
+        <svg
+          fill="#FFF"
+          height="1em"
+          viewBox="0 0 256 256"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            fill="none"
+            height="256"
+            width="256"
+          />
+          <path
+            d="M223.9,65.4l-12.2,66.9A24,24,0,0,1,188.1,152H72.1l4.4,24H184a24,24,0,1,1-24,24,23.6,23.6,0,0,1,1.4-8H102.6a23.6,23.6,0,0,1,1.4,8,24,24,0,1,1-42.2-15.6L34.1,32H16a8,8,0,0,1,0-16H34.1A16,16,0,0,1,49.8,29.1L54.7,56H216a7.9,7.9,0,0,1,6.1,2.9A7.7,7.7,0,0,1,223.9,65.4Z"
+          />
+        </svg>
+      </button>
+    </p>
+  </div>
+  <div
+    class="sc-bcXHqe hCILkT"
+  >
+    <img
+      src="src/assets/foods/green.jpg"
+    />
+    <div
+      class="sc-gswNZR dInrsn"
+    >
+      <div
+        class="sc-dkrFOg bjtBOW"
+      >
+        SALADA
+      </div>
+      <div
+        class="sc-dkrFOg bjtBOW"
+      >
+        VAPOR
+      </div>
+    </div>
+    <p
+      class="sc-hLBbgP bNQmgg"
+    >
+      Salada Green
+    </p>
+    <p
+      class="sc-eDvSVe goauox"
+    >
+      Meio a meio frutas e folhas com leite vaporizado
+    </p>
+    <p
+      class="sc-jSUZER kiLyLk"
+    >
+      R$ 
+      25,90
+      <div
+        class="sc-iBYQkv PRJhG"
+      >
+        <button
+          data-testid="remove"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,136H40a8,8,0,0,1,0-16H216a8,8,0,0,1,0,16Z"
+            />
+          </svg>
+        </button>
+        0
+        <button
+          data-testid="plus"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,120H136V40a8,8,0,0,0-16,0v80H40a8,8,0,0,0,0,16h80v80a8,8,0,0,0,16,0V136h80a8,8,0,0,0,0-16Z"
+            />
+          </svg>
+        </button>
+      </div>
+      <button
+        class="sc-gKPRtg hufJvz"
+      >
+        <svg
+          fill="#FFF"
+          height="1em"
+          viewBox="0 0 256 256"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            fill="none"
+            height="256"
+            width="256"
+          />
+          <path
+            d="M223.9,65.4l-12.2,66.9A24,24,0,0,1,188.1,152H72.1l4.4,24H184a24,24,0,1,1-24,24,23.6,23.6,0,0,1,1.4-8H102.6a23.6,23.6,0,0,1,1.4,8,24,24,0,1,1-42.2-15.6L34.1,32H16a8,8,0,0,1,0-16H34.1A16,16,0,0,1,49.8,29.1L54.7,56H216a7.9,7.9,0,0,1,6.1,2.9A7.7,7.7,0,0,1,223.9,65.4Z"
+          />
+        </svg>
+      </button>
+    </p>
+  </div>
+  <div
+    class="sc-bcXHqe hCILkT"
+  >
+    <img
+      src="src/assets/foods/green.jpg"
+    />
+    <div
+      class="sc-gswNZR dInrsn"
+    >
+      <div
+        class="sc-dkrFOg bjtBOW"
+      >
+        SALADA
+      </div>
+      <div
+        class="sc-dkrFOg bjtBOW"
+      >
+        VAPOR
+      </div>
+    </div>
+    <p
+      class="sc-hLBbgP bNQmgg"
+    >
+      Salada Green
+    </p>
+    <p
+      class="sc-eDvSVe goauox"
+    >
+      Meio a meio frutas e folhas com leite vaporizado
+    </p>
+    <p
+      class="sc-jSUZER kiLyLk"
+    >
+      R$ 
+      25,90
+      <div
+        class="sc-iBYQkv PRJhG"
+      >
+        <button
+          data-testid="remove"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,136H40a8,8,0,0,1,0-16H216a8,8,0,0,1,0,16Z"
+            />
+          </svg>
+        </button>
+        0
+        <button
+          data-testid="plus"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,120H136V40a8,8,0,0,0-16,0v80H40a8,8,0,0,0,0,16h80v80a8,8,0,0,0,16,0V136h80a8,8,0,0,0,0-16Z"
+            />
+          </svg>
+        </button>
+      </div>
+      <button
+        class="sc-gKPRtg hufJvz"
+      >
+        <svg
+          fill="#FFF"
+          height="1em"
+          viewBox="0 0 256 256"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            fill="none"
+            height="256"
+            width="256"
+          />
+          <path
+            d="M223.9,65.4l-12.2,66.9A24,24,0,0,1,188.1,152H72.1l4.4,24H184a24,24,0,1,1-24,24,23.6,23.6,0,0,1,1.4-8H102.6a23.6,23.6,0,0,1,1.4,8,24,24,0,1,1-42.2-15.6L34.1,32H16a8,8,0,0,1,0-16H34.1A16,16,0,0,1,49.8,29.1L54.7,56H216a7.9,7.9,0,0,1,6.1,2.9A7.7,7.7,0,0,1,223.9,65.4Z"
+          />
+        </svg>
+      </button>
+    </p>
+  </div>
+  <div
+    class="sc-bcXHqe hCILkT"
+  >
+    <img
+      src="src/assets/foods/macchiato.png"
+    />
+    <div
+      class="sc-gswNZR dInrsn"
+    >
+      <div
+        class="sc-dkrFOg bjtBOW"
+      >
+        SALADA
+      </div>
+    </div>
+    <p
+      class="sc-hLBbgP bNQmgg"
+    >
+      Macchiato
+    </p>
+    <p
+      class="sc-eDvSVe goauox"
+    >
+      O tradicional café feito com água quente e grãos moídos
+    </p>
+    <p
+      class="sc-jSUZER kiLyLk"
+    >
+      R$ 
+      12,90
+      <div
+        class="sc-iBYQkv PRJhG"
+      >
+        <button
+          data-testid="remove"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,136H40a8,8,0,0,1,0-16H216a8,8,0,0,1,0,16Z"
+            />
+          </svg>
+        </button>
+        0
+        <button
+          data-testid="plus"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,120H136V40a8,8,0,0,0-16,0v80H40a8,8,0,0,0,0,16h80v80a8,8,0,0,0,16,0V136h80a8,8,0,0,0,0-16Z"
+            />
+          </svg>
+        </button>
+      </div>
+      <button
+        class="sc-gKPRtg hufJvz"
+      >
+        <svg
+          fill="#FFF"
+          height="1em"
+          viewBox="0 0 256 256"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            fill="none"
+            height="256"
+            width="256"
+          />
+          <path
+            d="M223.9,65.4l-12.2,66.9A24,24,0,0,1,188.1,152H72.1l4.4,24H184a24,24,0,1,1-24,24,23.6,23.6,0,0,1,1.4-8H102.6a23.6,23.6,0,0,1,1.4,8,24,24,0,1,1-42.2-15.6L34.1,32H16a8,8,0,0,1,0-16H34.1A16,16,0,0,1,49.8,29.1L54.7,56H216a7.9,7.9,0,0,1,6.1,2.9A7.7,7.7,0,0,1,223.9,65.4Z"
+          />
+        </svg>
+      </button>
+    </p>
+  </div>
+  <div
+    class="sc-bcXHqe hCILkT"
+  >
+    <img
+      src="src/assets/foods/gurjao.jpg"
+    />
+    <div
+      class="sc-gswNZR dInrsn"
+    >
+      <div
+        class="sc-dkrFOg bjtBOW"
+      >
+        PETISCOS
+      </div>
+    </div>
+    <p
+      class="sc-hLBbgP bNQmgg"
+    >
+      Gurjao
+    </p>
+    <p
+      class="sc-eDvSVe goauox"
+    >
+      Gurjão de carne de jaca extremamente delicioso e crocante
+    </p>
+    <p
+      class="sc-jSUZER kiLyLk"
+    >
+      R$ 
+      39,90
+      <div
+        class="sc-iBYQkv PRJhG"
+      >
+        <button
+          data-testid="remove"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,136H40a8,8,0,0,1,0-16H216a8,8,0,0,1,0,16Z"
+            />
+          </svg>
+        </button>
+        0
+        <button
+          data-testid="plus"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,120H136V40a8,8,0,0,0-16,0v80H40a8,8,0,0,0,0,16h80v80a8,8,0,0,0,16,0V136h80a8,8,0,0,0,0-16Z"
+            />
+          </svg>
+        </button>
+      </div>
+      <button
+        class="sc-gKPRtg hufJvz"
+      >
+        <svg
+          fill="#FFF"
+          height="1em"
+          viewBox="0 0 256 256"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            fill="none"
+            height="256"
+            width="256"
+          />
+          <path
+            d="M223.9,65.4l-12.2,66.9A24,24,0,0,1,188.1,152H72.1l4.4,24H184a24,24,0,1,1-24,24,23.6,23.6,0,0,1,1.4-8H102.6a23.6,23.6,0,0,1,1.4,8,24,24,0,1,1-42.2-15.6L34.1,32H16a8,8,0,0,1,0-16H34.1A16,16,0,0,1,49.8,29.1L54.7,56H216a7.9,7.9,0,0,1,6.1,2.9A7.7,7.7,0,0,1,223.9,65.4Z"
+          />
+        </svg>
+      </button>
+    </p>
+  </div>
+  <div
+    class="sc-bcXHqe hCILkT"
+  >
+    <img
+      src="src/assets/foods/gurjao.jpg"
+    />
+    <div
+      class="sc-gswNZR dInrsn"
+    >
+      <div
+        class="sc-dkrFOg bjtBOW"
+      >
+        PETISCOS
+      </div>
+    </div>
+    <p
+      class="sc-hLBbgP bNQmgg"
+    >
+      Gurjao
+    </p>
+    <p
+      class="sc-eDvSVe goauox"
+    >
+      Gurjão de carne de jaca extremamente delicioso e crocante
+    </p>
+    <p
+      class="sc-jSUZER kiLyLk"
+    >
+      R$ 
+      39,90
+      <div
+        class="sc-iBYQkv PRJhG"
+      >
+        <button
+          data-testid="remove"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,136H40a8,8,0,0,1,0-16H216a8,8,0,0,1,0,16Z"
+            />
+          </svg>
+        </button>
+        0
+        <button
+          data-testid="plus"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,120H136V40a8,8,0,0,0-16,0v80H40a8,8,0,0,0,0,16h80v80a8,8,0,0,0,16,0V136h80a8,8,0,0,0,0-16Z"
+            />
+          </svg>
+        </button>
+      </div>
+      <button
+        class="sc-gKPRtg hufJvz"
+      >
+        <svg
+          fill="#FFF"
+          height="1em"
+          viewBox="0 0 256 256"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            fill="none"
+            height="256"
+            width="256"
+          />
+          <path
+            d="M223.9,65.4l-12.2,66.9A24,24,0,0,1,188.1,152H72.1l4.4,24H184a24,24,0,1,1-24,24,23.6,23.6,0,0,1,1.4-8H102.6a23.6,23.6,0,0,1,1.4,8,24,24,0,1,1-42.2-15.6L34.1,32H16a8,8,0,0,1,0-16H34.1A16,16,0,0,1,49.8,29.1L54.7,56H216a7.9,7.9,0,0,1,6.1,2.9A7.7,7.7,0,0,1,223.9,65.4Z"
+          />
+        </svg>
+      </button>
+    </p>
+  </div>
+  <div
+    class="sc-bcXHqe hCILkT"
+  >
+    <img
+      src="src/assets/foods/gurjao.jpg"
+    />
+    <div
+      class="sc-gswNZR dInrsn"
+    >
+      <div
+        class="sc-dkrFOg bjtBOW"
+      >
+        PETISCOS
+      </div>
+    </div>
+    <p
+      class="sc-hLBbgP bNQmgg"
+    >
+      Gurjao
+    </p>
+    <p
+      class="sc-eDvSVe goauox"
+    >
+      Gurjão de carne de jaca extremamente delicioso e crocante
+    </p>
+    <p
+      class="sc-jSUZER kiLyLk"
+    >
+      R$ 
+      39,90
+      <div
+        class="sc-iBYQkv PRJhG"
+      >
+        <button
+          data-testid="remove"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,136H40a8,8,0,0,1,0-16H216a8,8,0,0,1,0,16Z"
+            />
+          </svg>
+        </button>
+        0
+        <button
+          data-testid="plus"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,120H136V40a8,8,0,0,0-16,0v80H40a8,8,0,0,0,0,16h80v80a8,8,0,0,0,16,0V136h80a8,8,0,0,0,0-16Z"
+            />
+          </svg>
+        </button>
+      </div>
+      <button
+        class="sc-gKPRtg hufJvz"
+      >
+        <svg
+          fill="#FFF"
+          height="1em"
+          viewBox="0 0 256 256"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            fill="none"
+            height="256"
+            width="256"
+          />
+          <path
+            d="M223.9,65.4l-12.2,66.9A24,24,0,0,1,188.1,152H72.1l4.4,24H184a24,24,0,1,1-24,24,23.6,23.6,0,0,1,1.4-8H102.6a23.6,23.6,0,0,1,1.4,8,24,24,0,1,1-42.2-15.6L34.1,32H16a8,8,0,0,1,0-16H34.1A16,16,0,0,1,49.8,29.1L54.7,56H216a7.9,7.9,0,0,1,6.1,2.9A7.7,7.7,0,0,1,223.9,65.4Z"
+          />
+        </svg>
+      </button>
+    </p>
+  </div>
+  <div
+    class="sc-bcXHqe hCILkT"
+  >
+    <img
+      src="src/assets/foods/hamburgao.jpg"
+    />
+    <div
+      class="sc-gswNZR dInrsn"
+    >
+      <div
+        class="sc-dkrFOg bjtBOW"
+      >
+        ARTESANAL
+      </div>
+    </div>
+    <p
+      class="sc-hLBbgP bNQmgg"
+    >
+      Hamburgão
+    </p>
+    <p
+      class="sc-eDvSVe goauox"
+    >
+      Hamburguer delicioso com carne de caju, especialidade da casa!
+    </p>
+    <p
+      class="sc-jSUZER kiLyLk"
+    >
+      R$ 
+      15,90
+      <div
+        class="sc-iBYQkv PRJhG"
+      >
+        <button
+          data-testid="remove"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,136H40a8,8,0,0,1,0-16H216a8,8,0,0,1,0,16Z"
+            />
+          </svg>
+        </button>
+        0
+        <button
+          data-testid="plus"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,120H136V40a8,8,0,0,0-16,0v80H40a8,8,0,0,0,0,16h80v80a8,8,0,0,0,16,0V136h80a8,8,0,0,0,0-16Z"
+            />
+          </svg>
+        </button>
+      </div>
+      <button
+        class="sc-gKPRtg hufJvz"
+      >
+        <svg
+          fill="#FFF"
+          height="1em"
+          viewBox="0 0 256 256"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            fill="none"
+            height="256"
+            width="256"
+          />
+          <path
+            d="M223.9,65.4l-12.2,66.9A24,24,0,0,1,188.1,152H72.1l4.4,24H184a24,24,0,1,1-24,24,23.6,23.6,0,0,1,1.4-8H102.6a23.6,23.6,0,0,1,1.4,8,24,24,0,1,1-42.2-15.6L34.1,32H16a8,8,0,0,1,0-16H34.1A16,16,0,0,1,49.8,29.1L54.7,56H216a7.9,7.9,0,0,1,6.1,2.9A7.7,7.7,0,0,1,223.9,65.4Z"
+          />
+        </svg>
+      </button>
+    </p>
+  </div>
+  <div
+    class="sc-bcXHqe hCILkT"
+  >
+    <img
+      src="src/assets/foods/hamburgao.jpg"
+    />
+    <div
+      class="sc-gswNZR dInrsn"
+    >
+      <div
+        class="sc-dkrFOg bjtBOW"
+      >
+        ARTESANAL
+      </div>
+    </div>
+    <p
+      class="sc-hLBbgP bNQmgg"
+    >
+      Hamburgão
+    </p>
+    <p
+      class="sc-eDvSVe goauox"
+    >
+      Hamburguer delicioso com carne de caju, especialidade da casa!
+    </p>
+    <p
+      class="sc-jSUZER kiLyLk"
+    >
+      R$ 
+      15,90
+      <div
+        class="sc-iBYQkv PRJhG"
+      >
+        <button
+          data-testid="remove"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,136H40a8,8,0,0,1,0-16H216a8,8,0,0,1,0,16Z"
+            />
+          </svg>
+        </button>
+        0
+        <button
+          data-testid="plus"
+        >
+          <svg
+            fill="#030303"
+            height="14"
+            viewBox="0 0 256 256"
+            width="14"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="none"
+              height="256"
+              width="256"
+            />
+            <path
+              d="M216,120H136V40a8,8,0,0,0-16,0v80H40a8,8,0,0,0,0,16h80v80a8,8,0,0,0,16,0V136h80a8,8,0,0,0,0-16Z"
+            />
+          </svg>
+        </button>
+      </div>
+      <button
+        class="sc-gKPRtg hufJvz"
+      >
+        <svg
+          fill="#FFF"
+          height="1em"
+          viewBox="0 0 256 256"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            fill="none"
+            height="256"
+            width="256"
+          />
+          <path
+            d="M223.9,65.4l-12.2,66.9A24,24,0,0,1,188.1,152H72.1l4.4,24H184a24,24,0,1,1-24,24,23.6,23.6,0,0,1,1.4-8H102.6a23.6,23.6,0,0,1,1.4,8,24,24,0,1,1-42.2-15.6L34.1,32H16a8,8,0,0,1,0-16H34.1A16,16,0,0,1,49.8,29.1L54.7,56H216a7.9,7.9,0,0,1,6.1,2.9A7.7,7.7,0,0,1,223.9,65.4Z"
+          />
+        </svg>
+      </button>
+    </p>
+  </div>
+</div>
+`;
