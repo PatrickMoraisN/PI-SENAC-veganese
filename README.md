@@ -26,6 +26,9 @@ Os diferenciais desse projeto integrador estão em:
  - Gerenciamento de estado a nível Global.
  - Imutabilidade utilizando `useReducers` do ReactJS.
  - CSS-in-JS utilizando `Styled-Components` com propriedades dinamicas e tipadas.
+
+
+ ### Veja o projeto online em: https://veganese.vercel.app/
 ---
 
 # :camera_flash: Mídias
