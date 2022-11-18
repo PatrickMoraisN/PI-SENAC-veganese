@@ -6,7 +6,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/foods/colorful.jpg"
+      src="src/assets/colorful.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -103,7 +103,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/foods/tacos.jpg"
+      src="src/assets/tacos.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -205,7 +205,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/foods/grains.jpg"
+      src="src/assets/grains.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -302,7 +302,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/foods/gelado.jpg"
+      src="src/assets/gelado.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -399,7 +399,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/foods/green.jpg"
+      src="src/assets/green.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -501,7 +501,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/foods/green.jpg"
+      src="src/assets/green.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -603,7 +603,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/foods/green.jpg"
+      src="src/assets/green.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -705,7 +705,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/foods/green.jpg"
+      src="src/assets/green.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -807,7 +807,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/foods/macchiato.png"
+      src="src/assets/macchiato.png"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -904,7 +904,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/foods/gurjao.jpg"
+      src="src/assets/gurjao.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -1001,7 +1001,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/foods/gurjao.jpg"
+      src="src/assets/gurjao.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -1098,7 +1098,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/foods/gurjao.jpg"
+      src="src/assets/gurjao.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -1195,7 +1195,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/foods/hamburgao.jpg"
+      src="src/assets/hamburgao.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -1292,7 +1292,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/foods/hamburgao.jpg"
+      src="src/assets/hamburgao.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
