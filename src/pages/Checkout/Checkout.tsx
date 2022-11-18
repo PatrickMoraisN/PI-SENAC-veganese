@@ -42,7 +42,7 @@ export function Checkout() {
 
   useEffect(() => {
     if (methodSelected) {
-      setUserInfo((state) => ({ ...state, paymentMethod: methodSelected }))
+      setUserInfo((state: any) => ({ ...state, paymentMethod: methodSelected }))
     }
   }, [methodSelected])
 
