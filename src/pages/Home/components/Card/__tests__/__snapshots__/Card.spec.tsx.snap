@@ -6,7 +6,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/colorful.jpg"
+      src="/static/img/colorful.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -103,7 +103,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/tacos.jpg"
+      src="/static/img/tacos.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -205,7 +205,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/grains.jpg"
+      src="/static/img/grains.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -302,7 +302,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/gelado.jpg"
+      src="/static/img/gelado.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -399,7 +399,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/green.jpg"
+      src="/static/img/green.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -501,7 +501,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/green.jpg"
+      src="/static/img/green.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -603,7 +603,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/green.jpg"
+      src="/static/img/green.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -705,7 +705,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/green.jpg"
+      src="/static/img/green.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -807,7 +807,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/macchiato.png"
+      src="/static/img/macchiato.png"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -1195,7 +1195,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/hamburgao.jpg"
+      src="/static/img/hamburgao.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
@@ -1292,7 +1292,7 @@ exports[`Card should render correctly 1`] = `
     class="sc-bcXHqe hCILkT"
   >
     <img
-      src="src/assets/hamburgao.jpg"
+      src="/static/img/hamburgao.jpg"
     />
     <div
       class="sc-gswNZR dInrsn"
