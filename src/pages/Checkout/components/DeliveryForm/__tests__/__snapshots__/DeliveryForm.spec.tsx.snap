@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DeliveryForm should render correctly 1`] = `
+<div>
+  <h3>
+    Endereço de Entrega
+  </h3>
+  <p>
+    Informe o endereço onde deseja receber seu pedido
+  </p>
+  <form
+    class="sc-bcXHqe bIkZqB"
+  >
+    <input
+      class="sc-gswNZR cmQhvm"
+      data-testid="cep"
+      placeholder="CEP"
+      type="number"
+    />
+    <input
+      data-testid="street"
+      disabled=""
+      placeholder="Rua"
+      style="cursor: not-allowed;"
+      type="text"
+      value=""
+    />
+    <div
+      class="sc-hLBbgP iQhqPF"
+    >
+      <input
+        class="sc-gswNZR cmQhvm"
+        placeholder="Número"
+        type="number"
+        value=""
+      />
+      <input
+        class="sc-eDvSVe bJxIbO"
+        placeholder="Complemento"
+        type="text"
+        value=""
+      />
+    </div>
+    <div
+      class="sc-hLBbgP iQhqPF"
+    >
+      <input
+        class="sc-gswNZR cmQhvm"
+        data-testid="neighb"
+        disabled=""
+        placeholder="Bairro"
+        style="cursor: not-allowed;"
+        type="text"
+        value=""
+      />
+      <input
+        class="sc-gKPRtg gMVRru"
+        data-testid="city"
+        disabled=""
+        placeholder="Cidade"
+        type="text"
+        value=""
+      />
+      <input
+        class="sc-jSUZER iNWTAz"
+        data-testid="uf"
+        disabled=""
+        placeholder="UF"
+        type="text"
+        value=""
+      />
+    </div>
+  </form>
+</div>
+`;
