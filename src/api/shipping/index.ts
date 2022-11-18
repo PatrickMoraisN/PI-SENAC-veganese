@@ -1,4 +1,13 @@
-export function calcCrow(lat1, lon1, lat2, lon2) {
+/* eslint-disable no-var */
+/* eslint-disable no-redeclare */
+// @ts-ignore
+
+export function calcCrow(
+  lat1: number,
+  lon1: number,
+  lat2: number,
+  lon2: number,
+) {
   const R = 6371 // km
   const dLat = toRad(lat2 - lat1)
   const dLon = toRad(lon2 - lon1)
@@ -13,6 +22,6 @@ export function calcCrow(lat1, lon1, lat2, lon2) {
   return d
 }
 
-function toRad(Value) {
+function toRad(Value: number) {
   return (Value * Math.PI) / 180
 }
