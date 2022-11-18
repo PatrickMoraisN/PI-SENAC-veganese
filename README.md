@@ -30,16 +30,15 @@ Os diferenciais desse projeto integrador estão em:
 
 # :camera_flash: Mídias
 Home
-![Imagem do projeto](src/assets/coffee1.png)
+![Imagem do projeto](src/assets/homeveganese.png)
 
-Cart
-![Imagem do projeto](src/assets/CoffeeCart.png)
+Checkout
+![Imagem do projeto](src/assets/cartveganese.png)
 
-Empty Cart
-![Imagem do projeto](src/assets/CoffeeEmptyCart.png)
+---
 
-Gif
-![Imagem do projeto](src/assets/gifCoffee2.gif)
+Vídeo do fluxo completo
+![video](src/assets/senacpi.mov)
 
 <br />
 
