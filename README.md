@@ -38,7 +38,9 @@ Checkout
 ---
 
 Vídeo do fluxo completo
-![video](src/assets/senacpi.mov)
+https://user-images.githubusercontent.com/78609758/202761013-43d8799d-6ab6-4ce6-90f2-142e212160e2.mp4
+
+
 
 <br />
 
