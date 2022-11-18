@@ -9,7 +9,7 @@ type UserInfoProps = {
 }
 
 interface UserInfoContextProps {
-  userInfo: UserInfoProps | {}
+  userInfo: UserInfoProps | {} | any
   setUserInfo: (value: any) => void
 }
 
