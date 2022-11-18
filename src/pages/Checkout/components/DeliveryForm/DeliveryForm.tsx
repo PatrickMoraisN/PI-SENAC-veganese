@@ -56,12 +56,12 @@ export function DeliveryForm({
     }
   }
 
-  const handleNumberChange = (e: EventProps) => {
+  const handleNumberChange = (e: EventProps | any) => {
     setError(null)
     setNumberStreet(e.target.value)
   }
 
-  const handleComplementChange = (e: EventProps) => {
+  const handleComplementChange = (e: EventProps | any) => {
     setError(null)
     setComplement(e.target.value)
   }
@@ -70,7 +70,7 @@ export function DeliveryForm({
     if (formCompleted) {
       const { street, city, uf, neighb } = cepInfo
       setDeliveryFormCompleted(true)
-      setUserInfo((state) => ({ ...state, street, city, uf, neighb }))
+      setUserInfo((state: any) => ({ ...state, street, city, uf, neighb }))
     }
   }, [cepInfo])
 
